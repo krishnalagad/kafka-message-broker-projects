@@ -1,4 +1,4 @@
-package com.learnspring.wikimediakafkaproject.publisher;
+package com.learnspring.kafka.producer.publisher;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -21,6 +21,6 @@ public class WikimediaChangesProducer {
     public void sendMessage() {
 
         // to read real time stream data from wikimedia, we use event source.
-        
+
     }
 }

@@ -19,9 +19,9 @@ public class KafkaDatabaseConsumer {
     @KafkaListener(topics = "${kafka.topic1.name}", groupId = "myGroup")
     public void consume(String eventMessage) {
         this.logger.info(String.format("Event message received -> %s", eventMessage));
-        Wikimedia wikimedia = Wikimedia.builder()
-                .wikiEventData(eventMessage)
-                .build();
+
+        Wikimedia wikimedia = new Wikimedia();
+        wikimedia.setWikiEventData(eventMessage);
         this.wikimediaRepository.save(wikimedia);
     }
 }

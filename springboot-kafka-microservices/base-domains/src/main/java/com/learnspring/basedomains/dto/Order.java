@@ -9,9 +9,10 @@ import lombok.ToString;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
-public class OrderEvent {
+public class Order {
 
-    private String message;
-    private String status;
-    private Order order;
+    private String orderId;
+    private String orderName;
+    private int orderQuantity;
+    private double orderPrice;
 }

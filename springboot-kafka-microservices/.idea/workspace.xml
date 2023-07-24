@@ -46,7 +46,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StockServiceApplication">
+  <component name="RunManager" selected="Application.OrderServiceApplication">
     <configuration name="EmailServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learnspring.emailservice.EmailServiceApplication" />
       <module name="email-service" />
@@ -88,9 +88,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrderServiceApplication" />
         <item itemvalue="Application.StockServiceApplication" />
         <item itemvalue="Application.EmailServiceApplication" />
-        <item itemvalue="Application.OrderServiceApplication" />
       </list>
     </recent_temporary>
   </component>

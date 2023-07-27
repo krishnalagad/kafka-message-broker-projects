@@ -46,7 +46,12 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StockServiceApplication">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.learnspring.emailservice.kafka" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EmailServiceApplication">
     <configuration name="EmailServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learnspring.emailservice.EmailServiceApplication" />
       <module name="email-service" />
@@ -88,9 +93,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmailServiceApplication" />
         <item itemvalue="Application.StockServiceApplication" />
         <item itemvalue="Application.OrderServiceApplication" />
-        <item itemvalue="Application.EmailServiceApplication" />
       </list>
     </recent_temporary>
   </component>

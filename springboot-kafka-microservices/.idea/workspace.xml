@@ -36,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Installed Software/Github Desktop/kafka-message-broker-projects/springboot-kafka-microservices",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Installed Software/Github Desktop/kafka-message-broker-projects/springboot-kafka-microservices&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.OrderServiceApplication">
+}</component>
+  <component name="RunManager" selected="Application.StockServiceApplication">
     <configuration name="EmailServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learnspring.emailservice.EmailServiceApplication" />
       <module name="email-service" />
@@ -88,8 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrderServiceApplication" />
         <item itemvalue="Application.StockServiceApplication" />
+        <item itemvalue="Application.OrderServiceApplication" />
         <item itemvalue="Application.EmailServiceApplication" />
       </list>
     </recent_temporary>

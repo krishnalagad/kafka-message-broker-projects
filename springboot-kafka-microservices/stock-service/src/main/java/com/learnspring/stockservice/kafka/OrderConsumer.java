@@ -16,5 +16,6 @@ public class OrderConsumer {
         this.logger.info(String.format("Order event received in stock service -> %s", event));
 
         // Here we can save event data in database.
+        // Also, we can check the users order details for availability and act upon it.
     }
 }

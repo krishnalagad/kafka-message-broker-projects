@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class OrderProducer {
 
-    private Logger logger = LoggerFactory.getLogger(OrderProducer.class);
+    private final Logger logger = LoggerFactory.getLogger(OrderProducer.class);
 
     @Autowired
     private NewTopic topic;
